@@ -6,24 +6,6 @@ Me chamo Vitor Gomes Pires, sou natural do Rio de Janeiro, formado em **`Gestão
 
 Sou apaixonado por desenvolvimento de software e inovação. Dedico meu tempo ao estudo de linguagens de programação, frameworks modernos e boas práticas de desenvolvimento, sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e construir uma carreira na área de tecnologia.
 
-<p align="left">
-    <a href="https://github.com/vitor1112?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/vitor1112?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/vitor1112?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/vitor1112?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -149,13 +131,6 @@ Sou apaixonado por desenvolvimento de software e inovação. Dedico meu tempo ao
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=vitor1112&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor1112&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
-/>
 
 
 
