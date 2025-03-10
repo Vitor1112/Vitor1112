@@ -1,9 +1,7 @@
-# 👨🏽‍💻Vitor Gomes Pires 
+# 👨🏽‍💻Vitor 
 
 
 **`Desenvolvedor FullStack`**
-
-# Seja muito bem-vindo(a) !
 
 Me chamo Vitor Gomes Pires, sou natural do Rio de Janeiro, formado em **`Gestão da Tecnologia da Informação pela Universidade Estácio de Sá`** e concluí um **`curso de Desenvolvimento Full Stack pela Tipcodes`**. Tenho grande interesse em tecnologia e busco constantemente aprimorar meus conhecimentos na área.
 
