@@ -27,8 +27,10 @@ Dedico meu tempo ao estudo de linguagens de programação, frameworks modernos e
 ---
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vitor1112&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Gomes Pires github stats"/> 
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=java,c%23,handlebars,python" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vitor1112&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&custom_title=Estatísticas%20do%20GitHub%20de%20Vitor%20Gomes" alt="Vitor Gomes Pires github stats"/>
+
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor1112&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=java,c%23,handlebars,python,php&custom_title=Tecnologias" />
+
 
 
 </div>
