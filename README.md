@@ -133,11 +133,5 @@ Sou apaixonado por desenvolvimento de software e inovação. Dedico meu tempo ao
     src="https://github-readme-stats.vercel.app/api?username=vitor1112&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor1112&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
-  />
 </p>
 
