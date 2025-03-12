@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Vitor+Gomes+Pires;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Vitor+Gomes+Pires;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 Sou natural do Rio de Janeiro, formado em **Gestão da Tecnologia da Informação pela Universidade Estácio de Sá** e concluí um **curso de Desenvolvimento Full Stack pela Tipcodes**. Sou apaixonado por tecnologia e estou sempre buscando melhorar minhas habilidades.
 Dedico meu tempo ao estudo de linguagens de programação, frameworks modernos e boas práticas de desenvolvimento.
